@@ -2,6 +2,9 @@ import { Link } from "react-router-dom";
 import { IoSearchOutline } from "react-icons/io5";
 
 function SearchBar() {
+  
+  
+
   return (
     <div className="sticky top-0 p-2 bg-orange-500">
     <Link to="/searchproduct">
